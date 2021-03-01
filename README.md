@@ -37,3 +37,4 @@ app.prepare().then(() => {
   server.use(bodyParser.json())
 })
 ```
+# nextjs-start-project
