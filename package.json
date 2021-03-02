@@ -16,7 +16,7 @@
     "express": "latest",
     "framer-motion": "latest",
     "next": "latest",
-    "next-nprogress-emotion": "^latest",
+    "next-nprogress-emotion": "latest",
     "react": "latest",
     "react-dom": "latest",
     "typeorm": "latest"
